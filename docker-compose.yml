@@ -1,6 +1,6 @@
 version: '3'
 services:
-  author:
+  server:
     container_name: server
     image: digitalocean-docker-demo
     ports:
